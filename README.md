@@ -2,6 +2,8 @@
 
 [![eShopOnWeb - Code Index](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/richnav.yml/badge.svg)](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/richnav.yml)
 
+[![eShopOnWeb Build and Test](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/eshoponweb-cicd.yml)
+
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
