@@ -1,8 +1,5 @@
-[![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
-
-[![eShopOnWeb - Code Index](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/richnav.yml/badge.svg)](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/richnav.yml)
-
 [![eShopOnWeb Build and Test](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/eshoponweb-cicd.yml/badge.svg)](https://github.com/waglcom/eShopOnWeb20260202/actions/workflows/eshoponweb-cicd.yml)
+
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
